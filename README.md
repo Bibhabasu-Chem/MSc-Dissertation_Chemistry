@@ -30,3 +30,9 @@ To compile the code using `gfortran`:
 gfortran MetalTest.for -o metal_sim
 ./metal_sim
 
+## 📚 References
+
+1. **Mishra, R.K., Lalneihpuii, R. & Pathak, R.**, *Chem. Phys.*, 2015, 457, 13-18.
+2. **Lalneihpuii, R. et al.**, *J. Stat. Mech.*, 2019, 053202, 1-12.
+3. **Waseda, Y.**, *The structure of non-crystalline materials*, 1980.
+4. **Tang, Y. & Lu, B.C.Y.**, *Mol. Phys.*, 1995, 84, 89-103.
