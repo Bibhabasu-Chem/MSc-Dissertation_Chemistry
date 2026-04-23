@@ -24,6 +24,17 @@ $$\beta_T^{-1} = \rho_w \vartheta_s^2 \gamma^{-1}$$
 | **Europium** | 0.0415 | 14.92 | 1205.61 |
 | **Ytterbium** | 0.0439 | 13.14 | 1164.47 |
 
+### 📈 Computed Structure Factor S(k) vs. Experimental Data
+These plots demonstrate the fair agreement between our theoretical SW model and available experimental results .
+
+<p align="center">
+  <img src="La.png" width="400" title="Lanthanum S(k)">
+  <img src="Ce.png" width="400" title="Cerium S(k)">
+  <img src="Pr.png" width="400" title="Praseodymium S(k)">
+  <img src="Eu.png" width="400" title="Europium S(k)">
+  <img src="Yb.png" width="400" title="Ytterbium S(k)">
+</p>
+
 ## 📚 References
 
 1. **Mishra, R.K., Lalneihpuii, R. & Pathak, R.**, *Chem. Phys.*, 2015, 457, 13-18.
