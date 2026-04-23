@@ -45,5 +45,5 @@ These plots demonstrate the fair agreement between our theoretical SW model and 
 ## 🚀 How to Run
 To compile the code using `gfortran`:
 ```bash
-gfortran MetalTest.for -o metal_sim
+gfortran sound_velocity_RE_liquids.f90 -o metal_sim
 ./metal_sim
